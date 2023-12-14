@@ -23,4 +23,4 @@
 ## 학습예정
 
 ## 연락처
-- 이메일: kimminsic92@gamail.com
+- 이메일: kimminsic92@gmail.com
