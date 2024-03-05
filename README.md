@@ -19,8 +19,13 @@
 * * *
 
 ## 프로젝트
-
+- 
+- 생성형 AI를 활용한 토이프로젝트
+- 지도서비스
+- 생성형 AI를 활용한 추천 서비스(예정)
+## 학습 중
+- AWS Certified Cloud Practitioner (자격증)
 ## 학습예정
-
+- AWS Solutions Architect (자격증)
 ## 연락처
 - 이메일: kimminsic92@gmail.com
