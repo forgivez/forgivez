@@ -20,7 +20,7 @@
 
 ## 프로젝트
 - 생성형 AI를 활용한 토이프로젝트
-- 지도서비스
+- 지도서비스 (MeetIntheCenter)
 - 생성형 AI를 활용한 추천 서비스(예정)
 ## 학습 중
 - AWS Certified Cloud Practitioner (자격증)
