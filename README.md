@@ -1,4 +1,4 @@
-> ## 👨🏻‍💻 Web Back-end Developer
+> ## 👨🏻‍💻 Web Developer
 
 ## 소개
 > 자바로 만드는 프로젝트를 좋아합니다.
@@ -11,7 +11,7 @@
 * * *
 
 🛠 Lang & Framework
-- JAVA, Javascript, Spring framework
+- JAVA, Javascript, Spring framework, Python
 
 ⛏ Interest
 - Kotlin
@@ -19,12 +19,10 @@
 * * *
 
 ## 프로젝트
-- 생성형 AI를 활용한 토이프로젝트
-- 지도서비스 (MeetIntheCenter)
-- 생성형 AI를 활용한 추천 서비스(예정)
+
 ## 학습 중
-- AWS Certified Cloud Practitioner (자격증)
+
 ## 학습예정
-- AWS Solutions Architect (자격증)
+
 ## 연락처
 - 이메일: kimminsic92@gmail.com
